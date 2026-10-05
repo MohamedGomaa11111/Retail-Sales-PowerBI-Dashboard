@@ -4,7 +4,7 @@ An end-to-end interactive Business Intelligence solution built using Power BI, P
 
 ## 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](dashboard_preview.png)
+![Sales Performance Dashboard](dashboard_preview.png.jpeg)
 
 ## 📌 Executive Summary & Key Highlights
 
